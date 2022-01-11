@@ -1,0 +1,19 @@
+Python	
+Python has less lines of code.	
+Python supports garbage collection	
+Python is easy to remember almost similar to human language.	
+Python uses interpreter.	
+Python is slower since it uses interpreter and also determines the data type at run time.	
+Rapid Prototyping is possible due to the small size of the code.	
+Easier to maintain, object-oriented and simpler to use
+Python is dynamically typed.
+Python program are saved with .py extension.
+
+C++
+C++ tends to have large lines of code.
+C++ doesn’t support garbage collection.
+C++ has a stiff learning curve as it has lots of predefined syntaxes and structure.
+C++ is pre; compiled.
+C++ is faster in speed as compared to python.	
+C++ is statically typed.C++ program are saved with .cpp extension.	
+Less clean and manageable in comparison to python

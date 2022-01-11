@@ -1,0 +1,3 @@
+Statically typed languages perform type checking at compile-time, while dynamically-typed languages perform type checking at run-time. 
+
+Statically-typed languages require you to declare the data types of your variables before you use them, while dynamically-typed languages do not.
